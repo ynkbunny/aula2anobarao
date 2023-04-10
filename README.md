@@ -1,6 +1,7 @@
-<HTML>
-<B> SOBRE MIM...</B><P>
-- Meu nome é Mariana Coelho de Lima<P>
-- Meu e-mail é: mariana.coelho.lima@escola.pr.gov.br
+### SOBRE MIM...
 
-</HTML>
+- _Olá, meu nome é MARIANA_
+
+- **Meu e-mail é mariana.coelho.lima@escola.pr.gov.br**
+- <i>Eu estou interessada em aprender a programar novas linguagens</i>
+- <B>Eu estou aprendendo a programar em Markdown e HTML</B>
